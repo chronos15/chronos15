@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o @chronos15
+#  Olá! Eu sou o @chronos15
 
-Bem-vindo ao meu perfil no GitHub! 🚀
+Bem-vindo ao meu perfil no GitHub! 
 
 Sou desenvolvedor de software, apaixonado por transformar ideias em aplicações funcionais, organizadas e com uma boa experiência para o usuário.
 
@@ -8,19 +8,19 @@ Aqui você encontrará projetos pessoais, estudos, ferramentas e soluções dese
 
 ---
 
-## 💻 Sobre mim
+## Sobre mim
 
 ```text
-💡 Desenvolvimento de sistemas
-🎨 Foco em UI/UX e interfaces responsivas
-🧩 Arquitetura, integrações e APIs
-📱 Aplicações Web, Desktop e Mobile
-🚀 Sempre buscando evoluir e aprender algo novo
+ Desenvolvimento de sistemas
+ Foco em UI/UX e interfaces responsivas
+ Arquitetura, integrações e APIs
+ Aplicações Web, Desktop e Mobile
+ Sempre buscando evoluir e aprender algo novo
 ```
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 Tenho interesse e experiência trabalhando com diferentes tecnologias e ecossistemas:
 
@@ -37,7 +37,7 @@ Tenho interesse e experiência trabalhando com diferentes tecnologias e ecossist
 
 ---
 
-## 🚀 O que você vai encontrar por aqui
+## O que você vai encontrar por aqui
 
 Meus repositórios envolvem principalmente:
 
@@ -52,7 +52,7 @@ Meus repositórios envolvem principalmente:
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chronos15\&show_icons=true\&hide_border=true\&include_all_commits=true\&count_private=true)
 
@@ -60,7 +60,7 @@ Meus repositórios envolvem principalmente:
 
 ---
 
-## 🌱 Atualmente
+## Atualmente
 
 Continuo desenvolvendo novos projetos, aprimorando minhas habilidades e buscando criar soluções cada vez mais simples, eficientes e agradáveis de usar.
 
@@ -68,7 +68,7 @@ Continuo desenvolvendo novos projetos, aprimorando minhas habilidades e buscando
 
 ---
 
-### 👨‍💻 @chronos15
+### @chronos15
 
 Obrigado pela visita!
 Fique à vontade para explorar meus repositórios. 🚀
